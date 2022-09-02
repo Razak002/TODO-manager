@@ -1,0 +1,32 @@
+#root{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 3.5rem;
+  text-align: center;
+  background-color: coral;
+
+}
+
+.header{
+  background-color:gold;
+}
+
+.App{
+ cursor: pointer;
+ font-size:large;
+ font-style: italic;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+button{
+  position: absolute;
+  border-radius: 5px;
+  background-color: gold;
+}
+input{
+  background-color:gold;
+  color: black;
+  border-radius: 5px;
+  margin-right: 3px;
+}
